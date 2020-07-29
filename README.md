@@ -1,8 +1,8 @@
 # 💬 Hello world 
 
 ![](https://media.giphy.com/media/xTiTny5Iu35uW0Jl9C/giphy.gif)
-✨ My name is **Hilal DİKMAN**, 
-I just graduated from my university <br>
+✨ My name is **Hilal**, 
+I just graduated from my university<br>
 
 ## 📌 GitHub Stats and Top Languages
 
