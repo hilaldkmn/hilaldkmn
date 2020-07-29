@@ -1,7 +1,7 @@
 # 💬 Hello world 
 <div class="row">
   <div class="column">
-    ![](https://media.giphy.com/media/xTiTny5Iu35uW0Jl9C/giphy.gif)
+    <img src="https://media.giphy.com/media/xTiTny5Iu35uW0Jl9C/giphy.gif" alt="riri" style="width:100%">
   </div>
   <div class="column">
     
