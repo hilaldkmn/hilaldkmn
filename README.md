@@ -1,6 +1,13 @@
 # 💬 Hello world 
+<div class="row">
+  <div class="column">
+    ![](https://media.giphy.com/media/xTiTny5Iu35uW0Jl9C/giphy.gif)
+  </div>
+  <div class="column">
+    
+  </div>
+</div>
 
-![](https://media.giphy.com/media/xTiTny5Iu35uW0Jl9C/giphy.gif)
 
 
 ## 📌 GitHub Stats and Top Languages
