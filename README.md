@@ -1,14 +1,8 @@
 # 💬 Hello world 
-<div class="row">
-  <div class="column">
-    <img src="https://media.giphy.com/media/xTiTny5Iu35uW0Jl9C/giphy.gif" alt="riri" style="width:100%">
-  </div>
-  <div class="column">
-    
-  </div>
-</div>
 
-
+![](https://media.giphy.com/media/xTiTny5Iu35uW0Jl9C/giphy.gif)
+✨ My name is **Hilal DİKMAN**, 
+I just graduated from my university <br>
 
 ## 📌 GitHub Stats and Top Languages
 
