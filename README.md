@@ -1,4 +1,4 @@
-# 💬 Hello world 💬
+# 💬 Hello world 
 
 ![](https://media.giphy.com/media/xTiTny5Iu35uW0Jl9C/giphy.gif)
 
@@ -10,6 +10,14 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilaldkmn&layout=compact&hide=html,css" alt="ETop Langs" />
 </p>
 
+
+## 📫 How to reach me
+
+[![Linkedin Badge](https://img.shields.io/badge/hilaldkmn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hilal-dikman-b1376b162/)
+
+
+
+## 👋 See you world
 
 ![](https://media.giphy.com/media/7DzlajZNY5D0I/giphy.gif)
 
