@@ -3,6 +3,17 @@
 ![](https://media.giphy.com/media/xTiTny5Iu35uW0Jl9C/giphy.gif)
 ✨ My name is **Hilal**, 
 I just graduated from my university<br>
+<p align="left">
+  <a href="https://github.com/hilaldkmn/">
+    <img src="https://komarev.com/ghpvc/?username=hilaldkmn" alt="page views" />
+  </a>
+  <a href="">
+    <img alt="Reddit User Karma" src="https://visitor-badge.laobi.icu/badge?page_id=kaaneneskpc.kaaneneskpc">
+  </a>
+  <a href="https://github.com/kaaneneskpc?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kaaneneskpc?color=green&logo=github">
+  </a>
+</p>
 
 ## 📌 GitHub Stats and Top Languages
 
