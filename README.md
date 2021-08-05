@@ -10,7 +10,7 @@ I just graduated from my university<br>
   <a href="">
     <img alt="Reddit User Karma" src="https://visitor-badge.laobi.icu/badge?page_id=kaaneneskpc.kaaneneskpc">
   </a>
-  <a href="https://github.com/kaaneneskpc?tab=followers">
+  <a href="https://github.com/hilaldkmn?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/kaaneneskpc?color=green&logo=github">
   </a>
 </p>
