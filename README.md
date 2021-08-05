@@ -8,10 +8,10 @@ I just graduated from my university<br>
     <img src="https://komarev.com/ghpvc/?username=hilaldkmn" alt="page views" />
   </a>
   <a href="">
-    <img alt="Reddit User Karma" src="https://visitor-badge.laobi.icu/badge?page_id=kaaneneskpc.kaaneneskpc">
+    <img alt="Reddit User Karma" src="https://visitor-badge.laobi.icu/badge?page_id=hilaldkmn.hilaldkmn">
   </a>
   <a href="https://github.com/hilaldkmn?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kaaneneskpc?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hilaldkmn?color=green&logo=github">
   </a>
 </p>
 
