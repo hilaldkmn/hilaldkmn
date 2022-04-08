@@ -15,17 +15,14 @@
 
 ## 📌 GitHub Stats and Top Languages
 
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=hilaldkmn&show_icons=true&count_private=true&hide=contribs,issues" alt="Hilal's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilaldkmn&layout=compact&hide=html,css" alt="ETop Langs" />
-</p>
+<a href="https://github.com/hilaldkmn/hilaldkmn">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=hilaldkmn&show_icons=true&count_private=true&hide=contribs,issues" alt="Hilal's github stats" />
+ </a>
+ <a href="https://github.com/hilaldkmn/hilaldkmn">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilaldkmn&layout=compact&hide=html,css" alt="ETop Langs" />
+</a>
 
-<a href="https://github.com/hilaldkmn/hilaldkmn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilaldkmn&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/hilaldkmn/hilaldkmn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hilaldkmn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+
 
 
 ## 📫 How to reach me
