@@ -20,13 +20,6 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilaldkmn&layout=compact&hide=html,css" alt="ETop Langs" />
 </p>
 
-<a href='https://github.com/hilaldkmn/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/hilaldkmn/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/hilaldkmn/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
 
 ## 📫 How to reach me
 
