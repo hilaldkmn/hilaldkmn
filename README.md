@@ -1,6 +1,7 @@
 # 💬 Hello world 
 
 ![](https://media.giphy.com/media/xTiTny5Iu35uW0Jl9C/giphy.gif)
+<p>I'm a graduate in Software Engineering 🎓 from Kirklareli University 🏛. I'm a passionate learner who's always willing to learn and work across technologies 💡.  I enjoy learning about new technology and applying them to real-world situations✨. I'm currently into Java 👨🏻‍💻 and working on  Software Test🤓.</p>
 <p align="left">
   <a href="https://github.com/hilaldkmn/">
     <img src="https://komarev.com/ghpvc/?username=hilaldkmn" alt="page views" />
